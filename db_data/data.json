@@ -1,0 +1,34 @@
+{
+  "ids": {
+    "User": 2,
+    "AccessToken": 16,
+    "ACL": 1,
+    "RoleMapping": 1,
+    "Role": 1,
+    "Product": 13
+  },
+  "models": {
+    "User": {
+      "1": "{\"username\":\"mindfire\",\"password\":\"$2a$10$ekk2Kxh5w44mFtT.4FRI9eFtI55ldqDhLYAIezBYheM51GCQhy.Om\",\"email\":\"user@abc.com\",\"id\":1}"
+    },
+    "AccessToken": {
+      "3QFPtHOi4zVwgYG5QyxGvM8HoCZ28c5O93aBXZ080RmSLDewZ2L4U7rYltmtNsVD": "{\"id\":\"3QFPtHOi4zVwgYG5QyxGvM8HoCZ28c5O93aBXZ080RmSLDewZ2L4U7rYltmtNsVD\",\"ttl\":1209600,\"created\":\"2020-03-02T14:50:35.152Z\",\"userId\":1}",
+      "pK8r96Zy6o3aQHDXuGk2POGyVdUdbbfMs1lgT4NhhUERz4FTBOuYqURrKcyf2c1o": "{\"id\":\"pK8r96Zy6o3aQHDXuGk2POGyVdUdbbfMs1lgT4NhhUERz4FTBOuYqURrKcyf2c1o\",\"ttl\":1209600,\"created\":\"2020-03-02T15:16:57.622Z\",\"userId\":1}",
+      "0QPfWA1Jtw7H9K9Iu82AWgQ0J9lXY3qlbaCS1WDlGCZZz562ZxPEoYhoswXpRnDG": "{\"id\":\"0QPfWA1Jtw7H9K9Iu82AWgQ0J9lXY3qlbaCS1WDlGCZZz562ZxPEoYhoswXpRnDG\",\"ttl\":1209600,\"created\":\"2020-03-02T15:21:01.023Z\",\"userId\":1}",
+      "De4pcOIHrHpzPrIm60eVFNMc61lLLzOkryUjuzvbLi4yCtNIuGxKc6ka476KHTS4": "{\"id\":\"De4pcOIHrHpzPrIm60eVFNMc61lLLzOkryUjuzvbLi4yCtNIuGxKc6ka476KHTS4\",\"ttl\":1209600,\"created\":\"2020-03-03T02:46:03.953Z\",\"userId\":1}",
+      "w8ryjqz2YDeABaMcJgEToqkBnBLNM3fa6gK2W7aw8mUJNyw51ipNlf5npDSbYZlb": "{\"id\":\"w8ryjqz2YDeABaMcJgEToqkBnBLNM3fa6gK2W7aw8mUJNyw51ipNlf5npDSbYZlb\",\"ttl\":1209600,\"created\":\"2020-03-03T14:46:42.344Z\",\"userId\":1}",
+      "rNzvFLi2glD81yppiK6e12t3qwOtoID5fcHlRW7rqE4Ku5CFx7hVKoAiqoh30iSU": "{\"id\":\"rNzvFLi2glD81yppiK6e12t3qwOtoID5fcHlRW7rqE4Ku5CFx7hVKoAiqoh30iSU\",\"ttl\":1209600,\"created\":\"2020-03-04T02:39:57.935Z\",\"userId\":1}"
+    },
+    "ACL": {},
+    "RoleMapping": {},
+    "Role": {},
+    "Product": {
+      "1": "{\"name\":\"Apple iPhone X\",\"price\":700,\"rating\":4,\"id\":1}",
+      "2": "{\"name\":\"Apple Mac Mini\",\"price\":900,\"rating\":5,\"id\":2}",
+      "4": "{\"name\":\"HTC Chacha\",\"price\":200,\"rating\":3,\"id\":4}",
+      "5": "{\"name\":\"Sony Xperia\",\"price\":600,\"rating\":5,\"id\":5}",
+      "6": "{\"name\":\"Samsung Galaxy\",\"price\":400,\"rating\":2,\"id\":6}",
+      "7": "{\"name\":\"LG LED 5600VW\",\"price\":550,\"rating\":1,\"id\":7}"
+    }
+  }
+}
